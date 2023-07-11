@@ -30,6 +30,10 @@ a:hover {
     color: #000;
   }
 
+li {
+    padding-bottom: 3%;
+  }
+
 .contents {
     width: 50%;
     margin: 50px;
@@ -68,6 +72,7 @@ footer {
 
 @media (max-width: 1028px) {
     
+    
     .duties {
         width: auto;
         text-align: left;
@@ -75,6 +80,12 @@ footer {
 
     p {
         font-size: 1rem;
+    }
+
+    li {
+        font-size: 1.1rem;
+        line-height: 1.5;
+        padding-bottom: 4%;
     }
 
     .footer-link {
