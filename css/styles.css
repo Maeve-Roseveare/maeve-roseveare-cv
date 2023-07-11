@@ -72,10 +72,12 @@ footer {
 
 @media (max-width: 1028px) {
     
-    
-    .duties {
-        width: auto;
-        text-align: left;
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    h2  {
+        font-size: 1.4rem;
     }
 
     p {
@@ -86,6 +88,15 @@ footer {
         font-size: 1.1rem;
         line-height: 1.5;
         padding-bottom: 4%;
+    }
+    
+    .duties {
+        width: auto;
+        text-align: left;
+    }
+
+    .contents {
+        width: auto;
     }
 
     .footer-link {
