@@ -73,6 +73,10 @@ footer {
         text-align: left;
     }
 
+    p {
+        font-size: 1rem;
+    }
+
     .footer-link {
         margin: 20px 1px;
     }
